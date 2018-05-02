@@ -1,0 +1,44 @@
+﻿Malang/NNP adalah/VB sebuah/X kota/NN yang/SC terletak/VB di/IN Provinsi/JJ Jawa/NNP Timur/JJ ,/SYM 
+Indonesia/NNP ./SYM Kekayaan/NN etnis/NN dan/CC budaya/NN yang/SC dimiliki/VB kota/NN Malang/NNP 
+berpengaruh/VB terhadap/IN kesenian/NN tradisional/JJ yang/SC ada/IN ./SYM Salah/JJ satunya/X 
+yang/SC terkenal/VB adalah/VB Wayang/NNP Topeng/NN Malangan/NNP (/( Topeng/NN Malang/NNP )/) ,/SYM namun/CC 
+kini/X semakin/RB terkikis/VB oleh/IN kesenian/NN modern/JJ ./SYM Gaya/NN kesenian/NN ini/PR 
+adalah/VB wujud/NN pertemuan/NN tiga/CD budaya/NN (/( Jawa/NNP Tengah/JJ ,/SYM Madura/NNP ,/SYM dan/CC 
+Tengger/NNP )/) ./SYM Hal/NNP tersebut/VB,PR terjadi/VB karena/SC,IN  Malang/NNP memiliki/VB tiga/CD 
+sub-kultur/X ,/SYM yaitu/SC sub-kultur/X budaya/NN Jawa/NNP Tengah/JJ yang/SC hidup/JJ di/IN 
+lereng/NN gunung/NN Kawi/NNP ,/SYM sub-kultur/X Madura/NNP di/IN lereng/NN gunung/NN Arjuno/NNP ,/SYM dan/CC 
+sub-kultur/X Tengger/NNP sisa/NN budaya/NN Majapahit/NNP di/IN lereng/NN gunung/NN Bromo/NNP –/SYM 
+Semeru/NNP ./SYM Etnik/NN masyarakat/NN Malang/NNP terkenal/VB religius/JJ ,/SYM dinamis/JJ ,/SYM 
+suka/VB,NN bekerja/VB keras/JJ ,/SYM lugas/X dan/CC bangga/JJ dengan/IN identitas/NN nya/PRP sebagai/IN 
+Arek/NNP Malang/NNP  (/( AREMA/NNP )/) serta/IN,CC menjunjung/VB tinggi/VB kebersamaan/X dan/CC setia/JJ 
+kepada/IN Malang/NNP ./SYM
+
+Kota/NN Malang/NNP juga/RB  terdapat/VB  tempat/NN yang/SC merupakan/VB sarana/NN apresiasi/NN 
+budaya/NN Jawa/NNP Timur/JJ yaitu/SC Taman/NNP Krida/NNP Budaya/NNP Jawa/NNP Timur/JJ ,/SYM di/IN tempat/NN ini/PR 
+sering/RB ditampilkan/VB aneka/CD budaya/NN khas/JJ Jawa/NNP Timur/JJ seperti/SC,IN Ludruk/NNP ,/SYM 
+Ketoprak/NNP ,/SYM Wayang/NNP Orang/NNP ,/SYM Wayang/NNP Kulit/NNP ,/SYM Reog/NNP ,/SYM Kuda/NN Lumping/NNP ,/SYM 
+Sendratari/NNP ,/SYM saat/SC,NN ini/PR bertambah/VB kesenian/NN baru/NN yang/SC kian/X berkembang/VB 
+pesat/NN di/IN kota/NN Malang/NNP yaitu/SC kesenian/NN “/SYM Bantengan/NNP ”/SYM kesenian/NN ini/PR 
+merupakan/VB hasil/NN dari/IN kreatifitas/NN masyarakat/NN asli/JJ Malang/NNP ,/, sejak/SC,IN dahulu/X 
+sebenarnya/RB kesenian/NN ini/PR sudah/MD dikenal/VB oleh/IN masyarakat/NN Malang/NNP namun/CC baru/NN 
+sekarang/X lah/RP "/SYM bantengan/NNP "/SYM lebih/RB dikenal/VB oleh/IN masyarakat/NN tidak/NEG hanya/RB 
+masyarakat/NN lokal/JJ namun/CC juga/RB luar/NN daerah/NNP bahkan/RB mancanegara/X ./SYM Khusus/JJ di/IN 
+Malang/NNP sering/RB diadakan/VB pergelaran/NN bantengan/NNP hampir/RB setiap/CD perayaan/NN hari/NN 
+besar/NNP baik/JJ keagamaan/NN maupun/CC peringatan/NN hari/NN kemerdekaan/NNP ./SYM
+
+Kota/NN Malang/NNP tidak/NEG hanya/RB kental/JJ akan/IN,MD kekayaan/NN etnis/NN dan/CC budaya/NN 
+nya/PRP saja/RB ,/SYM melainkan/CC di/IN kota/NN ini/PR juga/RB terkenal/VB akan/IN,MD kuliner/NN nya/PRP ,/SYM 
+Pesona/NNP wisata/NN kuliner/NN di/IN Malang/NNP dapat/VB ditemukan/VB pada/IN banyak/CD tempat/NN dan/CC 
+sajian/NN kuliner/X yang/SC ditawarkan/VB nya/PRP ./SYM Dari/IN sekian/PR banyak/CD tempat/NN ,/SYM berikut/VB 
+ini/PR adalah/VB yang/SC paling/RB menarik/VB,JJ diantara/VB nya/PRP ada/IN Toko/NN Oen/NNP yang/SC 
+terkenal/VB es/NN krim/NN aneka/CD rasanya/RB ,/SYM lalu/SC ada/IN bakpao/NN boldy/X yang/SC memiliki/VB citarasa/X 
+yang/SC khas/JJ dan/CC unik/JJ ,/SYM dan/CC mie/NN gajah/NN mada/X dengan/IN citarasa/NN dan/CC keunikan/NN 
+nya/PRP sendiri/JJ ./SYM
+
+Selain/CC dikenal/VB sebagai/IN kota/NN budaya/NN dan/CC kuliner/X ,/SYM kota/NN Malang/NNP juga/RB 
+bisa/MD disebut/VB sebagai/IN kota/NN pendidikan/NN ,/SYM bagaimana/X tidak/NEG ,/SYM sebab/SC kota/NN 
+Malang/NNP dikelilingi/VB oleh/IN banyak/CD perguruan/NN Tinggi/JJ baik/JJ negeri/NN maupun/CC swasta/JJ 
+,/SYM mulai/VB dari/IN Universitas/NN Brawijaya/NNP ,/SYM Universitas/NN Negeri/JJ Malang/NNP ,/SYM 
+Politeknik/NN Negeri/JJ Malang/NNP ,/SYM Universitas/NN Kanjuruhan/NNP Malang/NNP ,/SYM 
+Universitas/NN Muhammadiyah/NNP Malang/NNP ,/SYM dan/CC masih/MD banyak/CD perguruan/NN tinggi/NNP lain/JJ 
+nya/PRP ./SYM
