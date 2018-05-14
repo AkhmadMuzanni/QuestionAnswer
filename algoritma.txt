@@ -1,0 +1,12 @@
+1. Preprocessing (Tokenisasi, Filtering)
+2. Cari Wh-Word (Apa, Dimana, Siapa) -> tentukan answer type yang mungkin.
+3. Pos tagging
+4. NER (untuk semua Noun)
+5. Cari NP setelah Wh-word untuk dijadikan question headword
+6. bentuk Relasi (Question headword-> relation, Entity-> Noun, ?x )
+7. Jadikan Question headword untuk pencarian method relasi
+8. Cari jawaban dari daftar masing-masing kategori
+-- Optional --
+9. Untuk kasus nested relation, lakukan pengubahan query sesuai jawaban relation paling dalam.
+
+
