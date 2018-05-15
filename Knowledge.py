@@ -37,7 +37,7 @@ def relApotek(apotek, kota, nama, konteks):
 
 def relDistribusiObat(obat, apotek):
     if obat == "?x":
-        ans = [item[0] for item in kdistribusiObat if item[1].lower() == apotek.lower() ]
+        ans = [item[0] for item in kdistribusiObat if item[1].lower() == apotek.lower()]
         return ans
     else:
         ans = [item[1] for item in kdistribusiObat if item[0].lower() == obat.lower()]
