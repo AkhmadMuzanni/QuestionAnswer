@@ -20,7 +20,7 @@ def relApotek(apotek, kota, nama, konteks):
         ans = [item[1] for item in kobat if item[0].lower() == nama.lower()]
         return ans
     elif apotek == "?x" and nama == "?x":
-        ans = [item[0] for item in kdataApotek if item[2].lower() == kota.lower()]
+        ans = [item[0] for item in kdataApotek if item[1].lower() == kota.lower()]
         return ans
     elif kota == "?x" and nama == "?x" and konteks == "person":
         ans = [item[2] for item in kdataApotek if item[0].lower() == apotek.lower()]
@@ -29,7 +29,7 @@ def relApotek(apotek, kota, nama, konteks):
         ans = [item[1] for item in kdataApotek if item[0].lower() == apotek.lower()]
         return ans
     elif apotek  == "?x" and nama == "?x":
-        ans = [item[0] for item in kobat if item[0].lower() == kota.lower()]
+        ans = [item[0] for item in kobat if item[1].lower() == kota.lower()]
         return ans
     else:
         ans = "?"
@@ -98,3 +98,5 @@ def relPenyebab(penyakit, sebab):
     else:
         ans = [item[1] for item in kpenyebab if item[0].lower() == penyakit.lower()]
         return ans
+
+print(relApotek("?x", "malang", "?x", ""))
