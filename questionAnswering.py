@@ -35,6 +35,7 @@ def preprocessing(sentence):
         if token in penyakit:
             sets = True
 
+    tokens = map(unicode,tokens)
     postag = ct.tag(tokens)
     print(postag)
 
